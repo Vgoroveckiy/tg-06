@@ -1,0 +1,4 @@
+# requirements.txt
+aiogram
+requests
+aiohttp
